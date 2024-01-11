@@ -23,7 +23,6 @@ In the first article, we applied multiple machine learning models, including Nai
 - k-Nearest Neighbors (KNN) 
 - Random Forest classifier
 - Decision Tree classifier
-<br>
 
 **NB: For some of these models we also used the Adaboost optimizer.**
 
