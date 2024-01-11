@@ -14,6 +14,7 @@ In the first article, we applied multiple machine learning models, including Nai
 - Naive Bayes (NB)
 - Support Vector Machine (SVM)
 - k-Nearest Neighbors (KNN) <br>
+<br>
 **NB: All being trained with and without the Feature Selection (CFS)**
 
 ### From the Second Article
@@ -22,6 +23,7 @@ In the first article, we applied multiple machine learning models, including Nai
 - k-Nearest Neighbors (KNN) 
 - Random Forest classifier
 - Decision Tree classifier <br>
+<br>
 **NB: For some of these models we also used the Adaboost optimizer.**
 
 ## Evaluation
