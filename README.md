@@ -15,7 +15,6 @@ In the first article, we applied multiple machine learning models, including Nai
 - Support Vector Machine (SVM)
 - k-Nearest Neighbors (KNN)
 <br>
-
 **NB: All being trained with and without the Feature Selection (CFS)**
 
 ### From the Second Article
